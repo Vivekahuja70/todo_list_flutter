@@ -1,0 +1,4 @@
+#Mon Aug 05 19:19:25 IST 2024
+base.0=/Users/enAct/Documents/KaranSoniCode/todo_list_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
